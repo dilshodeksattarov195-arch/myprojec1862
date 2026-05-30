@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersonnect",
+        "uuid": 16422840,
+        "checksum": "j7jdsg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
